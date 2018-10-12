@@ -1,4 +1,4 @@
-[](Latitude_vs_Cloudiness.png)
+[]("Images/Latitude_vs_Cloudiness.png")
 Problem Statement:
 
 I had to study and visualize the weather data from a randomly selected set of 500 cities. The parameters of visualization were -
